@@ -65,7 +65,7 @@ Graphs and visualizations are included in the Jupyter notebook.
 
 ## Deliverables
 - **Notebook:** [`Project.ipynb`](Project.ipynb) — Full analysis with code, outputs, and figures  
-- **Report:** *(optional, if uploaded)* [`Report.pdf`](Report.pdf) — Written report describing methodology and findings  
+- **Report:** *(optional, if uploaded)* [`CS5664_Final_Project.pdf`](CS5664_Final_Project.pdf) — Written report describing methodology and findings  
 - **Data:** `nodes.csv` and `edges.csv`  
 
 For a static view of the notebook, you can open it in [nbviewer](https://nbviewer.org/github/wieckingcp23/cs5664-spotify-network-analysis/blob/main/Project.ipynb).
