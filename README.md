@@ -100,9 +100,6 @@ pip install pandas matplotlib seaborn networkx python-louvain
 - Peyton Wiecking:[@wieckingcp23](https://github.com/wieckingcp23) 
 - Mark Shelton: @sheltonml - _Inactive Account_
 
-Instructor: [Dr. Denis Gracanin](https://people.cs.vt.edu/~gracanin/home/Home.html)  
-Advisor: [Dr. Imran Ghani](https://www.researchgate.net/profile/Imran-Ghani-2)
-
 ### Academic Use Disclaimer
 This repository is an archived academic project completed as part of coursework at the [Virginia Military Institute](https://www.vmi.edu/cadet-life/cadet-leadership-and-development/honor-system/). It is provided **for portfolio and reference purposes only**.  
 
