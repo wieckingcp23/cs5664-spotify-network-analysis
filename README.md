@@ -94,3 +94,18 @@ jupyter notebook Project.ipynb
 - Strengthened skills in Python, NetworkX, and data visualization
 bash
 pip install pandas matplotlib seaborn networkx python-louvain
+
+## Team
+
+- Peyton Wiecking:[@wieckingcp23](https://github.com/wieckingcp23) 
+- Mark Shelton: @sheltonml - _Inactive Account_
+
+Instructor: [Dr. Denis Gracanin](https://people.cs.vt.edu/~gracanin/home/Home.html)  
+Advisor: [Dr. Imran Ghani](https://www.researchgate.net/profile/Imran-Ghani-2)
+
+### Academic Use Disclaimer
+This repository is an archived academic project completed as part of coursework at the [Virginia Military Institute](https://www.vmi.edu/cadet-life/cadet-leadership-and-development/honor-system/). It is provided **for portfolio and reference purposes only**.  
+
+If you are a current student, do not copy or submit this work as your own. Course assignments may have changed since this project was completed, and instructors use plagiarism detection tools.
+
+Use this repository only as a learning reference.
