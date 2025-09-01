@@ -1,9 +1,10 @@
 # CS 5664 Project — Spotify Artist Collaboration Network
 
+**Type:** Semester Project
+**Institution:** Virginia Tech
 **Course:** CS 5664 Social Media Analytics  
-**Institution:** Virginia Tech  
-**Team Members:** Peyton Wiecking (wieckingcp23) and Mark Shelton (sheltonml)  
-**Semester:** Spring 2025  
+**Date:** 10 May 2025
+**Grade:** 100/100
 
 ---
 
