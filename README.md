@@ -1,10 +1,10 @@
 # CS 5664 Project — Spotify Artist Collaboration Network
 
-**Type:** Semester Project
-**Institution:** Virginia Tech
+**Type:** Semester Project  
+**Institution:** Virginia Tech  
 **Course:** CS 5664 Social Media Analytics  
-**Date:** 10 May 2025
-**Grade:** 100/100
+**Date:** 10 May 2025  
+**Grade:** 100/100  
 
 ---
 
