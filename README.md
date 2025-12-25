@@ -101,7 +101,7 @@ pip install pandas matplotlib seaborn networkx python-louvain
 - Mark Shelton: @sheltonml - _Inactive Account_
 
 ### Academic Use Disclaimer
-This repository is an archived academic project completed as part of coursework at the [Virginia Military Institute](https://www.vmi.edu/cadet-life/cadet-leadership-and-development/honor-system/). It is provided **for portfolio and reference purposes only**.  
+This repository is an archived academic project completed as part of coursework at [Virginia Tech](https://graduateschool.vt.edu/academics/expectations/graduate-honor-system.html). It is provided **for portfolio and reference purposes only**.  
 
 If you are a current student, do not copy or submit this work as your own. Course assignments may have changed since this project was completed, and instructors use plagiarism detection tools.
 
